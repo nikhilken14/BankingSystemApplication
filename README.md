@@ -19,7 +19,7 @@ This project provides a basic banking system with features to manage customers, 
 ## Setup and Run
 1. Clone the repository using `git clone https://github.com/nikhilken14/BankingSystemApplication/new/master.git`.
 2. Open the project in your preferred Java IDE.
-3. Compile and run the `BankingSystem.java` file.
+3. Compile and run the `BankingSystemApplication.java` file.
 4. Follow the console prompts to interact with the banking system.
 
 ## Contributing
